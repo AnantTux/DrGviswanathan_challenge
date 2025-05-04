@@ -1,2 +1,2 @@
 # DrGviswanathan_challenge
-This project checks if a linked list is a palindrome using C++.
+This is my personal project to document all the code I write as part of my LeetCode challenge at VIT Bhopal.
