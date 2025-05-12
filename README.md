@@ -1,10 +1,10 @@
 # DrGviswanathan_challenge
 
-🔹 Introduction
+## **🔹 Introduction**
 This repository serves as a record of all the LeetCode problems I solve, including solutions, explanations, and optimizations.
 
 
-🔹 Technologies Used
+## **🔹 Technologies Used**
 - Programming Language: C++
 - Tools: GitHub for version control
 
